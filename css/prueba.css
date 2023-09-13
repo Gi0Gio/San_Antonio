@@ -1,0 +1,11 @@
+:root{
+    background-color: #222;
+}
+
+.cen{
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}

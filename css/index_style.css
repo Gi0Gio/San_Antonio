@@ -1,0 +1,55 @@
+:root{
+    background-color: #222;
+    background-image: url(../media/praceHolderbgimages.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    font-size: 3vh;
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+    width: 100%;
+}
+
+.logo-image{
+    width: 140px;
+    margin: 20px;
+}
+.content-text{
+    margin-top: 25%;
+    margin-left: 50%;
+    margin-right: 200px;
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+}
+
+.display-2{
+    width: 500px;
+}
+
+.content-cards{
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.card-img-top{
+    height: 238.5px;
+}
+
+.footer-logo{
+    width: 100px;
+    margin: 20px;
+}
+
+.footerContainer{    
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+}
+
+footer{
+    margin-top: 20vh;
+    background-color: #222;
+}
+
+.footer-farm-info{
+    width: 20%;
+}

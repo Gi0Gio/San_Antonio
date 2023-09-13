@@ -1,0 +1,18 @@
+:root{
+    background-color: #222;
+    background-image: url(../media/praceHolderbgimages.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    font-size: 3vh;
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+    width: 100%;
+}
+
+.logo-image{
+    width: 140px;
+    margin: 20px;
+}
