@@ -1,9 +1,13 @@
 :root{
-    background-color: #222;
-    background-image: url(../media/praceHolderbgimages.jpeg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-color: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .navbar{
@@ -15,4 +19,37 @@
 .logo-image{
     width: 140px;
     margin: 20px;
+}
+
+.footer-logo{
+    width: 100px;
+    margin: 20px;
+}
+.footerContainer{    
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+}
+
+footer{
+    margin-top: 20vh;
+    background-color: #222;
+}
+
+.footer-farm-info{
+    padding-left: 10px;
+}
+
+.cont{
+    margin-top: 200px;
+    font-family: 'Trench Slab', sans-serif; /*Fuente*/
+}
+
+.SobreNosotros{
+    background-color: tomato;
+}
+.perfiles{
+    background-color: violet;
+}
+
+.profile-card{
+    background-color: blue;
 }
