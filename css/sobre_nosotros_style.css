@@ -1,5 +1,9 @@
 :root{
-    background-color: #ffffff;
+    background-color: #222;
+    background-image: url(../media/praceHolderbgimages.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 body {
@@ -40,34 +44,27 @@ footer{
 }
 
 .cont{
-    margin-top: 400px;
     font-family: 'Trench Slab', sans-serif; /*Fuente*/
     z-index: 100;
+    background: #6D6466;
+    margin: 100px;
+    margin-top: 300px;
 }
 
 .perfiles{
     height: 245px;
 }
 
-
 .profile-card{
-    background-color: blue;
     width: 700px;
     height: 245px;
 }
-.img-bg{
-    background-color: #222;
-    background-image: url(../media/praceHolderbgimages.jpeg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    width: 100%;
-    
-}
+
 
 .bg-img-cont{
     height: 350px;
-    position: absolute;
-    z-index: 0; 
     width: 100%;
+    background-image: url(../media/praceHolderbgimages.jpeg);
+    position: absolute;
+    z-index: 100;
 }
